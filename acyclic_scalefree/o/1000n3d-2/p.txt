@@ -1,0 +1,15 @@
+ Acyclic scale free random network generator
+==============================================================================
+ Working...
+ Maximum number of vertices: 1000
+ Average degree of vertices: 3.00000
+ Initial Erdos-Renyi graph - number of vertices: 5
+ Initial Erdos-Renyi graph - probability of lines: 0.5000000
+ Alpha: 0.5000000
+ Beta: 0.0000000
+ -----------------------------------
+ Final number of vertices: 1000
+ Final number of lines: 3001
+ Final average degree of vertices: 3.00100000
+ Wait: generating network...
+ Time spent:  0:00:00
